@@ -1,5 +1,5 @@
 ##TEST WORK GOAL:
-Converting a PSD design into a WordPress template. 
+- Converting a PSD design into a WordPress template. 
 
 ##TASK DETAILS:
 - Please create a vhost in your local development environment with hostname set as: coalitiontest.local
@@ -17,4 +17,4 @@ Converting a PSD design into a WordPress template.
   - Social Media Links
 - Menu should be created within WordPress
 - You can use Contact Form 7 for the form
--Page content should be manageable within Wordpress.
+- Page content should be manageable within Wordpress.
