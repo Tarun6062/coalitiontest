@@ -1,7 +1,7 @@
-##TEST WORK GOAL:
+## TEST WORK GOAL:
 - Converting a PSD design into a WordPress template. 
 
-##TASK DETAILS:
+## TASK DETAILS:
 - Please create a vhost in your local development environment with hostname set as: coalitiontest.local
 - Download latest Wordpress and install in your local site. (i.e. site url and home url should be http://coalitiontest.local )
 - Please keep username coalitiontest and password wordpresstest
